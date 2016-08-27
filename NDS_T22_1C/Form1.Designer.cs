@@ -194,7 +194,7 @@
             this.dataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView2.Location = new System.Drawing.Point(12, 410);
             this.dataGridView2.Name = "dataGridView2";
-            this.dataGridView2.Size = new System.Drawing.Size(345, 220);
+            this.dataGridView2.Size = new System.Drawing.Size(412, 220);
             this.dataGridView2.TabIndex = 15;
             // 
             // label8
@@ -276,16 +276,16 @@
             dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
             this.dataGridView3.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle3;
             this.dataGridView3.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView3.Location = new System.Drawing.Point(363, 410);
+            this.dataGridView3.Location = new System.Drawing.Point(430, 410);
             this.dataGridView3.Name = "dataGridView3";
-            this.dataGridView3.Size = new System.Drawing.Size(502, 220);
+            this.dataGridView3.Size = new System.Drawing.Size(435, 220);
             this.dataGridView3.TabIndex = 22;
             // 
             // label12
             // 
             this.label12.AutoSize = true;
             this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label12.Location = new System.Drawing.Point(360, 391);
+            this.label12.Location = new System.Drawing.Point(427, 391);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(124, 16);
             this.label12.TabIndex = 23;
